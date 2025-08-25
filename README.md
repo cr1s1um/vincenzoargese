@@ -1,25 +1,33 @@
-Hi! I'm **Vincenzo Argese** and my passion for computing began in **1989**, when my parents gave me a **Commodore 64**. That little machine, and its **BASIC programming manual**, was where I typed my very first lines of code.
+# Hi and wellcome!
 
-In **2011**, I started my own **IT consultancy business**, focusing on **cybersecurity** and **software development**. Since **2012**, I’ve worked as a **technical expert (CTU)** specializing in **Digital Forensics**, **incident response** (**DFIR**).
+I’m **Vincenzo Argese**, and my passion for computers and programming began back in **1989**, when my parents gave me a **Commodore 64**. With that little machine and its **BASIC programming manual**, I wrote my very first lines of code.  
 
-I regularly use **C**, **C++**, **Python**, **PHP**, **HTML5/CSS/JavaScript**, and frameworks like **React** in my professional projects. For fun, I develop **videogames** with **Unity3D (C#)** and **Godot Engine (GDScript)**.
+In **2011**, I started my own **IT consulting business**, focusing on **cybersecurity** and **software development**.  
 
-I also have experience teaching **cybersecurity and privacy** in schools, especially through training projects with **Microtech srl**.
+Since **2012**, I have specialized in **Digital Forensics** and **Incident Response** (**DFIR**) and serve as a **Technical Consultant (CTU)** for the Judiciary in criminal justice cases.  
 
-I'm passionate about writing code that is **clean**, **functional**, and **secure** — no fluff, just efficiency and elegance.
+The operating system I love and use the most is **Debian GNU/Linux**. Since 1999/2000,over 25 years now, it has been the foundation of all my activities: daily work, personal projects, software development, game development, system administration, and digital forensics.  
 
-This website is a place where I share what I love: projects, experiments, and ideas. 
+My favorite programming languages are **C** and **Python**. In my free time, I enjoy developing **video games** with **Godot Engine (GDScript)** and **Unreal Engine (C++)**. My philosophy is to write code that is **clean**, **functional**, and **secure**: no unnecessary complexity, just efficiency and elegance.  
 
-Welcome to my digital world!
+Since **2019**, I have been collaborating with **Microtech srl**, a company specializing in IT consulting for the **education sector**. I provide **cybersecurity training** for teachers and administrative staff in schools, and I also work on web development projects.  
+
+This website is my personal space, where I share the things I love: projects, experiments, and ideas.  
 
 Here you’ll find blog and technical articles on:
 
 - 💻 Software development and CyberSecurity
 - 🐧 Debian GNU/Linux
 - 🔐 Insights on Digital Forensics (DFIR)
-- 🎮 Game Development projects  
+- 🎮 Game Development projects
 - . . .
 
 Welcome to my digital world!
 
-[Twitter/X](https://x.com/VincenzoArgese) | [DevBlog](https://vincenzoargese.github.io/)
+# Contacts
+- [Twitter/X](https://x.com/cr1s1um")
+- [Github](https://github.com/cr1s1um")
+- [LinkedIn](https://www.linkedin.com/in/vincenzoargese/")
+
+# Why Crisium?
+The name "Crisium" (or "cr1s1um") comes from a character I used to play in an old text-based role-playing game from the '80s/'90s, accessed via telnet (MUD - Tempora Sanguinis): a blood-sucking vampire anti-paladin in a dark and fascinating fantasy world.
